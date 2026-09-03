@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788380912000,
+      "tag": "0000_smart_qr_platform_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788451083283,
+      "tag": "0001_contacts_active_and_scan_geo",
+      "breakpoints": true
+    }
+  ]
+}
